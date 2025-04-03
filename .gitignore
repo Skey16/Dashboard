@@ -1,0 +1,5 @@
+# Ignorar archivos innecesarios
+.vs/
+node_modules/
+.next/
+.env
